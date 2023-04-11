@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
- 
+
+//calcula a area de um cirulo
 int main() {
     
     double area, n, raio;
